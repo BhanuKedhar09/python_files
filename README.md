@@ -4,7 +4,7 @@ All the Assignments and some personal testing python files.
 
 Assignments:
 
-Worked extensively on python thought by David Koop at Northern Illinois University.
+Worked extensively on python thought by Professor David Koop at Northern Illinois University.
 
 Most of the files are in .ipynb file worked in juypter notebook
 
