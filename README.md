@@ -6,11 +6,11 @@ Assignments:
 
 Worked extensively on python thought by Professor David Koop at Northern Illinois University.
 
-Most of the files are in .ipynb file worked in juypter notebook
+Most of the files are in .ipynb format worked in juypter notebook
 
 Worked on the US Department of Transportaion, Border crosing Entry data.
 
-https://faculty.cs.niu.edu/~dakoop/cs503-2022fa/a3/border-crossing.json
+Dataset : https://faculty.cs.niu.edu/~dakoop/cs503-2022fa/a3/border-crossing.json
 
 Basic Python such as Lists, Sets, Dictionaries, Basic syntax. Control structures and functions, Files, Iterators, Strings, String formatting, Scripts, Packages or Modules, object-oriented programming, Exceptions.
 
